@@ -1,0 +1,28 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "8729C2C7-111",
+    "build_number": 111,
+    "build_time": 1593075213325,
+    "release": false
+  },
+  "encryptLevel": 1,
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "launchConfig": {
+    "displaySplash": false,
+    "hideLogs": false,
+    "splashText": "Powered by Auto.js Pro",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "HuiZi",
+  "optimization": {
+    "removeOpenCv": true,
+    "unusedResources": true
+  },
+  "packageName": "com.zw.huizi",
+  "scripts": {},
+  "versionCode": 4,
+  "versionName": "1.1.4"
+}
